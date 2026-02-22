@@ -46,8 +46,3 @@ Aggregations and filtering
 Data extraction into pandas DataFrames
 
 Analysis using Python.
-
-
-✔️ What to say about this project in interviews
-
-Just tell me 😊
